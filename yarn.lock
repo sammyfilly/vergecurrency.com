@@ -4631,9 +4631,7 @@ github@^12.0.0:
     netrc "^0.1.4"
 
 glob-all@^3.1.0:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/glob-all/-/glob-all-3.2.1.tgz#082ca81afd2247cbd3ed2149bb2630f4dc877d95"
-  integrity sha512-x877rVkzB3ipid577QOp+eQCR6M5ZyiwrtaYgrX/z3EThaSPFtLDwBXFHc3sH1cG0R0vFYI5SRYeWMMSEyXkUw==
+  version "3.3.1"
   dependencies:
     glob "^7.1.2"
     yargs "^15.3.1"
